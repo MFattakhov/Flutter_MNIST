@@ -1,3 +1,3 @@
 # Flutter_MNIST
  A mobile application wrapper on Flutter for TensorFlow ML model predicting digits, fitted to MNIST dataset.
-![Screenshot of upload page](./Screenshot_upload.png) ![Screenshot of draw page](./Screenshot_draw.png)
+<img src="./Screenshot_upload.png" width="525"/> <img src="./Screenshot_draw.png" width="525"/> 
